@@ -3,10 +3,11 @@ dex-ui animation project
 
 ## Screenshot
 
-
-
+![
+](screenshot/dexui.png)
 ## Demo Video
 
+[![Alt text](https://img.youtube.com/vi/d95CvwF5Si0/0.jpg)](https://youtu.be/d95CvwF5Si0)
 
 
 ## 说明
