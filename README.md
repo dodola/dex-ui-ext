@@ -20,7 +20,7 @@ dex-ui animation project
 
 我在Mac上编译了一个可执行的应用，是在Retina屏幕下做的适配。
 
-下载地址：
+[下载地址](https://github.com/dodola/dex-ui-ext/releases)
 
 ## LICENSE
 
